@@ -1,5 +1,5 @@
                                 # NUMBERS TASK IN Beginner Level
-#--------------------------------------------------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------------------------------------#
 
 # 1. Write a function that takes two arguments, 145 and 'o', and uses the `format` function to return a formatted string.
 #    Print the result. Try to identify the representation used.
@@ -11,7 +11,7 @@ print(formatfunc(145,'o'))              # Displaying the final result
 
 # It is returning 221 as the formatted result 
 
-#----------------------------------------------------------------------------------------------------------------------#
+#----------------------------------------------------------------------------------------------------------------------------------#
 
 # 2.  In a village, there is a circular pond with a radius of 84 meters. 
 # Calculate the area of the pond using the formula: Circle Area = π r^2. (Use the value 3.14 for π) 
