@@ -19,7 +19,7 @@ for = 4   # Kindly Comment out this line for executing rest of the code !
 
 p_amt = 3000   # Principal Amount 
 roi = 7        # Rate Of Intrest
-time = 3       # Time
+time = 3       # Time 
 
 si = ((p_amt * roi * time) / 100)  # Simple Intrest ((Principal Amount * Rate Of Intrest * Time )/ 100)
 print (si)
