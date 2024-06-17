@@ -10,7 +10,7 @@ print(type (pi))
 
 # 2. Create a variable called for and assign it a value 4. See what happens and find out the reason behind the behavior that you see.
 
-#for = 4
+for = 4   # Kindly Comment out this line for executing rest of the code !
     
 # It will throw an error as the "for" is a reserved keyword used for creating loops. As such, it cannot be used as a variable name.
 
