@@ -1,7 +1,5 @@
                 SHADOWFOX PYTHON DEVELOPMENT INTERN
 
----
-
 ## Open Your Terminal And Run Following Commands
 
 ### Clone The Repo From Github
