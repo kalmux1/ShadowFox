@@ -1,3 +1,6 @@
+                                # HANGMAN GAME TASK IN INTERMEDIATE Level
+#-------------------------------------------------------------------------------------------------------------------#
+
 from random_word import RandomWords
 
 r = RandomWords()
