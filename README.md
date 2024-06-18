@@ -1,11 +1,11 @@
-# SHADOWFOX PYTHON DEVELOPMENT INTERN
+## SHADOWFOX PYTHON DEVELOPMENT INTERN
 
-Open Your Terminal And Run Following Commands
+# Open Your Terminal And Run Following Commands
 
-# **Clone The Repo From Github**
+Clone The Repo From Github
 
     $ git clone https://github.com/kalmux1/ShadowFox.git
 
-# **Traverse Into The PASSWD-GEN Directory**
+Traverse Into The ShadowFox Directory
 
-    $ cd PASSWD-GEN
+    $ cd Shadowfox
