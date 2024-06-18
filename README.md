@@ -14,4 +14,6 @@ Welcome to my GitHub repository! I am an intern in Python Development at ShadowF
 
 ### Now you can access all the Task directories and codes .
 
+<hr>
+
 ## Thanks For Visiting !
