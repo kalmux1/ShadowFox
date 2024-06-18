@@ -16,4 +16,4 @@ Welcome to my GitHub repository! I am an intern in Python Development at ShadowF
 
 <hr>
 
-## Thanks For Visiting !
+<pre>  <h3> <b> Thanks For Visiting ! </h3></b></pre>
