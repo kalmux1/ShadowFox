@@ -1,7 +1,7 @@
 # ShadowFox Python Development Internship Projects
 
 <div align="center">
-  <img src="https://github.com/kalmux1/ShadowFox/blob/main/Utilities/shadowfox.png" alt="Gif" width="120" height="120"/>
+  <img src="https://github.com/kalmux1/ShadowFox/blob/main/Utilities/shadowfox.png" alt="Gif" width="220" height="220"/>
 </div>
 <br>
 
