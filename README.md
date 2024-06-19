@@ -1,7 +1,7 @@
 # ShadowFox Python Development Internship Projects
 
 <div align="center">
-  <img src="https://github.com/kalmux1/ShadowFox/blob/main/Utilities/shadowfox.png" alt="Gif" />
+  <img src="https://github.com/kalmux1/ShadowFox/blob/main/Utilities/shadowfox.png" alt="Gif" width="50" height="50"/>
 </div>
 
 Welcome to my GitHub repository! I am an intern in Python Development at ShadowFox, and here you can explore the projects I've worked on during my internship. Each project showcases my learning journey, skills, and creativity as I delved into various aspects of Python development.
