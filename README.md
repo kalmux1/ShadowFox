@@ -1,6 +1,6 @@
 # ShadowFox Python Development Internship Projects
 
-<div>
+<div align="center">
   <img src="https://github.com/kalmux1/ShadowFox/blob/main/Utilities/shadowfox.png" alt="Gif" />
 </div>
 
