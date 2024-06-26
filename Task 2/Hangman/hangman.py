@@ -12,10 +12,9 @@ def generate_word():
             return random_word
 
 random_word = generate_word()
-lives = len(random_word)
+lives = 7
 
 blanks = []
-
 
 
 HANGMANPICS = ["""
@@ -96,8 +95,13 @@ ____
 for letters in random_word :
     blanks += '_'
 
+print(" ")
+print (" WELCOME TO THE HANGMAN GAME ")
+print (" ")
+print (" ")
 print(blanks)
-print(random_word)
+print (" ")
+
 
 gameover = False
 
